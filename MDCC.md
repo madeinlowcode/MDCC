@@ -1,4 +1,4 @@
-# 🚀 Método de Desenvolvimento com Claude Code - MVP em 3 Dias
+﻿# 🚀 Método de Desenvolvimento com Claude Code - MVP em 3 Dias
 
 ## 📋 Visão Geral do Método
 
